@@ -10,4 +10,18 @@
 /httpRequests/
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+
+# Compiled class files
 *.class
+
+# Logs
+*.log
+
+# IDE folders
+.idea/
+*.iml
+
+# Build folders
+target/
+build/
+out/
